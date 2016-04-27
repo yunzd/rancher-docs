@@ -1,5 +1,3 @@
-# My Awesome Book
+# Rancher 文档
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-测试。
+ Rancher 文档中文翻译站。
