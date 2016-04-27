@@ -13,5 +13,5 @@
    * [用户](concepts/user.md)
 * [Rancher 基础服务](rancher-services/index.md)
    * [健康检查](rancher-services/health-checks.md)
-* 系统配置
+* [系统配置](configuration/index.md)
 
