@@ -12,4 +12,5 @@
 * [基本概念](concepts/index.md)
    * [用户](concepts/user.md)
 * [Rancher 服务](rancher-services/index.md)
+   * 健康检查
 
