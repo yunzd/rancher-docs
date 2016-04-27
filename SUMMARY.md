@@ -11,6 +11,6 @@
    * [添加主机](Installing-Rancher/add-host.md)
 * [基本概念](concepts/index.md)
    * [用户](concepts/user.md)
-* [Rancher 服务](rancher-services/index.md)
+* [Rancher 基础服务](rancher-services/index.md)
    * 健康检查
 
