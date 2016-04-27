@@ -22,5 +22,5 @@
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
 * [使用标签](labels/index.md)
-* 升级 Rancher
+* [升级 Rancher](upgrading/index.md)
 
