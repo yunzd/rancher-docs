@@ -10,4 +10,5 @@
    * [无互联网访问](Installing-Rancher/no-internet-access.md)
    * [添加主机](Installing-Rancher/add-host.md)
 * [基本概念](concepts/index.md)
+   * 用户
 
