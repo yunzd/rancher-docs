@@ -5,4 +5,5 @@
 * [快速安装指南](QuickStartGuide/qsg.md)
 * [Rancher 安装](Installing-Rancher/installing_rancher.md)
    * [单节点服务器安装](Installing-Rancher/Single-Node.md)
+* 多节点服务器安装
 
