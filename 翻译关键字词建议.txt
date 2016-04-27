@@ -4,7 +4,7 @@ Note: 注意
 Infrastructure: 基础设施
 Container: 容器
 Application: 应用
-Stack: 容器栈
+Stack: 服务站
 Service:  服务
 Registry: 镜像库
 Image: 镜像
