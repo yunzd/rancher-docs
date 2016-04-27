@@ -20,5 +20,5 @@
 * [Rancher 图形界面](rancher-ui/index.md)
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
-* Swarm
+* [Swarm](swarm/index.md)
 
