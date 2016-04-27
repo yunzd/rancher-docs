@@ -1,0 +1,15 @@
+Rancher Server: Rancher服务端
+HOST: 主机
+Note: 注意
+Infrastructure: 基础设施
+Container: 容器
+Application: 应用
+Stack: 容器栈
+Service:  服务
+Registry: 镜像库
+Image: 镜像
+Environment: 环境
+Compose: 编排
+Sidekicks: 伙伴
+Catalog: 目录
+Rancher Agent: Rancher代理端
