@@ -17,5 +17,5 @@
    * [访问控制](configuration/access-control.md)
 * [使用 Docker 原生命令行](native-docker.md)
 * [使用 Rancher-Compose](rancher-compose/index.md)
-* [Rancher 图像界面](rancher-ui/index.md)
+* [Rancher 图形界面](rancher-ui/index.md)
 
