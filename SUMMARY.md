@@ -7,5 +7,5 @@
    * [单节点服务器](Installing-Rancher/Single-Node.md)
    * [多节点高可用](Installing-Rancher/multi-nodes.md)
    * [基本 SSL 配置](Installing-Rancher/basic-ssl-config.md)
-   * 无互联网访问
+   * [无互联网访问](Installing-Rancher/no-internet-access.md)
 
