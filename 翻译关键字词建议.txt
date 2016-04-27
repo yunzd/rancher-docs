@@ -1,15 +1,15 @@
-Rancher Server: Rancher·şÎñ¶Ë
-HOST: Ö÷»ú
-Note: ×¢Òâ
-Infrastructure: »ù´¡ÉèÊ©
-Container: ÈİÆ÷
-Application: Ó¦ÓÃ
-Stack: ÈİÆ÷Õ»
-Service:  ·şÎñ
-Registry: ¾µÏñ¿â
-Image: ¾µÏñ
-Environment: »·¾³
-Compose: ±àÅÅ
-Sidekicks: »ï°é
-Catalog: Ä¿Â¼
-Rancher Agent: Rancher´úÀí¶Ë
+Rancher Server: RancheræœåŠ¡ç«¯
+HOST: ä¸»æœº
+Note: æ³¨æ„
+Infrastructure: åŸºç¡€è®¾æ–½
+Container: å®¹å™¨
+Application: åº”ç”¨
+Stack: å®¹å™¨æ ˆ
+Service:  æœåŠ¡
+Registry: é•œåƒåº“
+Image: é•œåƒ
+Environment: ç¯å¢ƒ
+Compose: ç¼–æ’
+Sidekicks: ä¼™ä¼´
+Catalog: ç›®å½•
+Rancher Agent: Rancherä»£ç†ç«¯
