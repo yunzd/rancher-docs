@@ -19,4 +19,5 @@
 * [使用 Rancher-Compose](rancher-compose/index.md)
 * [Rancher 图形界面](rancher-ui/index.md)
 * [Rancher 目录](catalog/index.md)
+* Kubernets
 
