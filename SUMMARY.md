@@ -35,4 +35,5 @@
                * [在 Vagrant 上运行](os/Running_RancherOS/workstation/vagrant.md)
                * [从 ISO 安装运行](os/Running_RancherOS/workstation/boot-from-iso.md)
            * [公有云](os/Running RancherOS/cloud/cloud.md)
+               * AWS
 
