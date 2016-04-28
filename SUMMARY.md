@@ -14,6 +14,7 @@
    * [环境](concepts/ENVIRONMENTS.md)
    * [主机](concepts/HOSTS.md)
    * [网络](concepts/NETWORKING.md)
+   * 服务发现
 * [Rancher 基础服务](rancher-services/index.md)
    * [健康检查](rancher-services/health-checks.md)
 * [系统配置](configuration/index.md)
