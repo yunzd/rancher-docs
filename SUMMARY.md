@@ -104,7 +104,7 @@
        * [控制台输出](os/configuration/custom-console.md)
        * [系统服务](os/configuration/system-services.md)
        * [设置 Docker TLS](os/configuration/setting_docker_tls.md)
-       * 加载内核模块
+       * [加载内核模块](os/configuration/load-kernel-modules.md)
    * [公有云配置参考](os/cloud-config.md)
    * [升级](os/upgrading.md)
    * [ROS 工具](os/ros/index.md)
