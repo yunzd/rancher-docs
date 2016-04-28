@@ -31,5 +31,5 @@
    * [快速安装指南](os/quick-start-guide.md)
    * [运行 Rancher OS](os/Running RancherOS/index.md)
        * [工作站](os/Running RancherOS/workstation/index.md)
-           * Docker Machine
+           * [Docker Machine](os/Running RancherOS/workstation/docker_machine.md)
 
