@@ -80,6 +80,7 @@
 * [常见问题](faq/index.md)
    * [Rancher Server](faq/rancher_server.md)
    * [Rancher Agent/Host](faq/rancher_agent_host.md)
+   * 排错
 * [Rancher OS](os/rancher_os.md)
    * [快速安装指南](os/quick-start-guide.md)
    * [运行 Rancher OS](os/Running RancherOS/index.md)
