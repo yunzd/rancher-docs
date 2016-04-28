@@ -59,6 +59,7 @@
        * [从主机开始](rancher-ui/infrastructure/hosts.md)
        * [添加自定义主机](rancher-ui/infrastructure/custom.md)
        * [Amazon EC2](rancher-ui/infrastructure/amazon_ec2.md)
+       * Azure
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
