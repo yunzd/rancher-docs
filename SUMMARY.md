@@ -111,6 +111,7 @@
        * [构建自定义 RancherOS ISO](os/configuration/building_custome_rancheros.md)
        * [Docker](os/configuration/docker.md)
        * [定制 Docker](os/configuration/custom-docker.md)
+       * 预打包 Docker 镜像
    * [公有云配置参考](os/cloud-config.md)
    * [升级](os/upgrading.md)
    * [ROS 工具](os/ros/index.md)
