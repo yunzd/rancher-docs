@@ -15,7 +15,7 @@
    * [主机](concepts/HOSTS.md)
    * [网络](concepts/NETWORKING.md)
    * [服务发现](concepts/SERVICE-DISCOVERY.md)
-   * 负载均衡
+   * [负载均衡](concepts/LOAD-BALANCER.md)
 * [Rancher 基础服务](rancher-services/index.md)
    * [健康检查](rancher-services/health-checks.md)
 * [系统配置](configuration/index.md)
