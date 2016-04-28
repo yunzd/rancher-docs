@@ -33,4 +33,5 @@
        * [工作站](os/Running RancherOS/workstation/index.md)
            * [Docker Machine](os/Running RancherOS/workstation/docker_machine.md)
            * [Vagrant](os/Running RancherOS/workstation/vagrant.md)
+           * 从 ISO 启动
 
