@@ -75,6 +75,7 @@
 * [为 Rancher 做贡献](contributing/index.md)
 * [使用 API](api/index.md)
    * [如何使用 API](api/api.md)
+   * 常用资源字段
 * [常见问题](faq/index.md)
 * [Rancher OS](os/rancher_os.md)
    * [快速安装指南](os/quick-start-guide.md)
