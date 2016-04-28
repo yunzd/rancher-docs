@@ -7,9 +7,9 @@ Rancher 是非常优秀的容器管理平台，本书旨在沉淀和积累相关
 本书在线访问网址：http://rancher.hidocker.io   
 
 ## 贡献者
-源码开源托管在 Github 上，欢迎参与维护：https://github.com/martinliu/rancher-docs [贡献者名单见 GitHub contributors 页面](https://github.com/martinliu/rancher-docs/graphs/contributors)。
+本书源码开源托管在 Github 上，欢迎参与维护：https://github.com/martinliu/rancher-docs [贡献者名单见 GitHub contributors 页面](https://github.com/martinliu/rancher-docs/graphs/contributors)。
 
-交流讨论区：
+欢迎参与线上讨论。
 
 * QQ 群1 
 ![314700162](q1.png)
@@ -22,6 +22,8 @@ Rancher 是非常优秀的容器管理平台，本书旨在沉淀和积累相关
 为了提高参与的效率，并省去在 Gitbook 上的操作的步骤。请直接加入本书在 GitHub 上的源代码协作来参与到文档的维护中来。
 
 参与步骤：注册 Github 账号，克隆本书源码，下载到本机，编辑认领的文章，推送到自己的仓库，提交 pull request 到本书源码，PR 通过之后，您的贡献自动跟新到线上版本。
+
+当前的工作目标：翻译并优化 Rancher 官方文档为中文版本。
 
 
 ### 具体操作步骤
@@ -55,7 +57,7 @@ $ git push -f origin master
 
 ### 添砖加瓦
 
-目前的章节目录源于 Rancher 官方文档网站。如果您希望增加你某篇实战文章，请在 github 上提交一个 Issue ,提交网址  https://github.com/martinliu/rancher-docs/issues ; 提交 Issue 的内容中说明所加入文章的内容梗概，标题，和希望加入的目标。2天内无人反对，您就可以在源码中看到您的空白文章已经生成。更新到您本地，编辑并上传，最后完成 RP 即可。
+目前的章节目录源于 Rancher 官方文档网站。如果您希望增加你原创实战文章，请在 github 上提交一个 Issue ,提交网址  https://github.com/martinliu/rancher-docs/issues ; 在提交 Issue 的内容中说明所加入文章的内容梗概，标题，和希望加入的位置。2天内无人反对，您就可以在源码中看到您的空白文章已经生成。更新到您本地，编辑并上传，最后完成 RP 即可。
 
 本书为开放、开源的编辑和协作，如果您希望加入在 GitBook 中本书的协作，请在 Issue 出提交加入 GitBook 协作的申请，并在内容中填写，您的 Gitbook ID。2天内无人反对，您就会收到 Gitbook 的邀请。
 
