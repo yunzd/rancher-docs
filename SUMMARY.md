@@ -33,5 +33,5 @@
            * [工作站](os/Running_RancherOS/workstation/index.md)
                * [使用Docker Machine运行](os/Running_RancherOS/workstation/docker-machine.md)
                * [在 Vagrant 上运行](os/Running_RancherOS/workstation/vagrant.md)
-               * 从 ISO 安装运行
+               * [从 ISO 安装运行](os/Running_RancherOS/workstation/boot-from-iso.md)
 
