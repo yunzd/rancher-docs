@@ -36,7 +36,7 @@
    * [设置](configuration/settings.md)
    * [账户](configuration/accounts.md)
    * [环境](configuration/Environments.md)
-   * API & Keys
+   * [API & Keys](configuration/api_&_keys.md)
 * [使用 Docker 原生命令行](native-docker/index.md)
 * [使用 Rancher-Compose](rancher-compose/index.md)
 * [Rancher 图形界面](rancher-ui/index.md)
