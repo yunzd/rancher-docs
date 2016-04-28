@@ -42,5 +42,5 @@
            * [安装到硬盘](os/Running RancherOS/server/install-to-disk.md)
    * [配置](os/configuration/index.md)
        * [配置存储](os/configuration/storage/index.md)
-       * 网络
+       * [网络](os/configuration/networking/index.md)
 
