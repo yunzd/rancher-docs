@@ -38,4 +38,5 @@
            * [AWS](os/Running RancherOS/cloud/aws.md)
        * [裸金属机和虚拟机](os/Running RancherOS/server/index.md)
            * [iPXE](os/Running RancherOS/server/ipxe.md)
+           * PXE
 
