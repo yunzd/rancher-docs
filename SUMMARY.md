@@ -39,5 +39,5 @@
                * [GCE](os/Running RancherOS/cloud/gce.md)
                * Azure
            * [服务器和虚拟机](os/Running RancherOS/server/server.md)
-               * iPXE
+               * [iPXE](os/Running RancherOS/server/ipxe.md)
 
