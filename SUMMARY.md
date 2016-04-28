@@ -26,5 +26,4 @@
 * [为 Rancher 做贡献](contributing/index.md)
 * [使用 API](api/index.md)
 * [常见问题](faq/index.md)
-   * [fat2](faq/fat2.md)
 
