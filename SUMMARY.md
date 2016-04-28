@@ -56,5 +56,5 @@
    * [Amazon ECS](os/amazon_ecs.md)
    * [底层技术](os/under-the-hood/index.md)
        * [目录加载](os/under-the-hood/directories.md)
-   * 为 RancherOS 做贡献
+   * [为 RancherOS 做贡献](os/contributing.md)
 
