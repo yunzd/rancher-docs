@@ -191,9 +191,10 @@ $ git push -f origin master
 
 
 
-
-
 ## 主要版本历史
 
+* v 0.5 完成了第一版全目录，章节条目为 126 行，更新了 Readme
+* 
+* 
 
 
