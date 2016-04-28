@@ -9,7 +9,7 @@
 | -- | -- | -- | -- |
 | Martin Liu | martin@aws-faq.com | qq 67120666 | Overview, Quick Start Guide |
 | Xiaobao Zhang | crazy.zhang@outlook.com | QQ 67448493 | Installing Rancher |
-| 0:4 | 1:4 | 2:4 | 3:4 |
+| 囧囧男 | 1271759139@qq.com | GithubID strongit | Concepts,Rancher Services |
 | 0:5 | 1:5 | 2:5 | 3:5 |
 | 0:6 | 1:6 | 2:6 | 3:6 |
 | 0:7 | 1:7 | 2:7 | 3:7 |
