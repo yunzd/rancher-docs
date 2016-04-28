@@ -41,4 +41,5 @@
            * [PXE](os/Running RancherOS/server/pxe.md)
            * [安装到硬盘](os/Running RancherOS/server/install-to-disk.md)
    * [配置](os/configuration/index.md)
+       * 配置存储
 
