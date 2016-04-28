@@ -45,6 +45,7 @@
    * [Rancher 服务](rancher-compose/rancher-services.md)
    * [调度](rancher-compose/scheduling.md)
    * [升级服务](rancher-compose/upgrading.md)
+   * 环境插值
 * [Rancher 图形界面](rancher-ui/index.md)
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
