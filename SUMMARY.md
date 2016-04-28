@@ -45,4 +45,5 @@
        * [网络](os/configuration/networking/index.md)
        * [用户](os/configuration/user.md)
        * [SSH Keys](os/configuration/ssh_keys.md)
+       * 控制台输出
 
