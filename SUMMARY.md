@@ -23,6 +23,7 @@
    * [Rancher Compose](concepts/rancher_compose.md)
    * [堆栈](concepts/STACKS.md)
    * [容器调度](concepts/CONTAINER-SCHEDULING.md)
+   * Sidekicks
 * [Rancher 基础服务](rancher-services/index.md)
    * [健康检查](rancher-services/health-checks.md)
 * [系统配置](configuration/index.md)
