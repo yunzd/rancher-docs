@@ -36,4 +36,5 @@
                * [从 ISO 安装运行](os/Running_RancherOS/workstation/boot-from-iso.md)
            * [公有云](os/Running RancherOS/cloud/cloud.md)
                * [AWS](os/Running RancherOS/cloud/aws.md)
+               * GCE
 
