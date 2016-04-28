@@ -79,6 +79,7 @@
    * [API 资源](api/api-resources.md)
 * [常见问题](faq/index.md)
    * [Rancher Server](faq/rancher_server.md)
+   * Rancher Agent/Host
 * [Rancher OS](os/rancher_os.md)
    * [快速安装指南](os/quick-start-guide.md)
    * [运行 Rancher OS](os/Running RancherOS/index.md)
