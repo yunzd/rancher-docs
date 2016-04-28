@@ -50,7 +50,7 @@
 * [Rancher 图形界面](rancher-ui/index.md)
    * [调度服务](rancher-ui/scheduling.md)
    * 应用/堆栈
-       * 增加服务
+       * [增加服务](stacks/adding-services.md)
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
