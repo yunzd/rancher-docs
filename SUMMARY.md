@@ -65,7 +65,7 @@
        * [Packet](rancher-ui/infrastructure/packet.md)
        * [Rackspace](rancher-ui/infrastructure/rackspace.md)
        * [其它驱动](rancher-ui/infrastructure/other.md)
-   * 基础架构/容器
+   * [基础架构/容器](rancher-ui/containers.md)
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
