@@ -49,7 +49,7 @@
    * [构建使用 AWS S3存储](rancher-compose/build.md)
 * [Rancher 图形界面](rancher-ui/index.md)
    * [调度服务](rancher-ui/scheduling.md)
-   * 服务/堆栈
+   * [服务/堆栈](rancher-ui/applications/stacks/index.md)
        * [增加服务](rancher-ui/applications/stacks/add-services.md)
        * [增加服务别名](rancher-ui/applications/stacks/add-service-alias.md)
        * [增加负载均衡](rancher-ui/applications/stacks/adding-balancers.md)
