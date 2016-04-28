@@ -49,6 +49,7 @@
    * [构建使用 AWS S3存储](rancher-compose/build.md)
 * [Rancher 图形界面](rancher-ui/index.md)
    * [调度服务](rancher-ui/scheduling.md)
+   * 应用/堆栈
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
