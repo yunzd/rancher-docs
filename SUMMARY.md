@@ -63,6 +63,7 @@
        * [Digital Ocean](rancher-ui/infrastructure/digital_ocean.md)
        * [Exoscale](rancher-ui/infrastructure/exoscale.md)
        * [Packet](rancher-ui/infrastructure/packet.md)
+       * Rackspace
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
