@@ -126,5 +126,5 @@
    * [底层技术](os/under-the-hood/index.md)
        * [目录加载](os/under-the-hood/directories.md)
    * [为 RancherOS 做贡献](os/contributing.md)
-   * [技巧](os/running-rancher-on-rancheros.md)
+   * [Rancher 配合Rancher OS 的使用技巧](os/running-rancher-on-rancheros.md)
 
