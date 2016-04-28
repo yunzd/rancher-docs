@@ -115,7 +115,7 @@
    * [公有云配置参考](os/cloud-config.md)
    * [升级](os/upgrading.md)
    * [ROS 工具](os/ros/index.md)
-       * ROS 简介
+       * [ROS 简介](os/ros/what-is-ros.md)
        * [Config](os/ros/config.md)
        * [TLS](os/ros/tls.md)
        * [ROS OS](os/ros/ros_os.md)
