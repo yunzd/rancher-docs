@@ -39,4 +39,5 @@
        * [裸金属机和虚拟机](os/Running RancherOS/server/index.md)
            * [iPXE](os/Running RancherOS/server/ipxe.md)
            * [PXE](os/Running RancherOS/server/pxe.md)
+           * 安装到硬盘
 
