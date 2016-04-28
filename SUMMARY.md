@@ -107,6 +107,7 @@
        * [加载内核模块](os/configuration/load-kernel-modules.md)
        * [安装内核模块](os/configuration/install-kernel-modules-require-kernel-headers.md)
        * [DKMS](os/configuration/dkms.md)
+       * 自定义内核
    * [公有云配置参考](os/cloud-config.md)
    * [升级](os/upgrading.md)
    * [ROS 工具](os/ros/index.md)
