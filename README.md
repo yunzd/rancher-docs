@@ -30,28 +30,33 @@ Rancher 是非常优秀的容器管理平台，本书旨在沉淀和积累相关
 
 在 GitHub 上 fork 到自己的仓库，如 docker_user/rancher-docs，然后 clone 到本地，并设置用户信息。
 
+```
 $ git clone git@github.com:docker_user/docker_practice.git
 $ cd docker_practice
 $ git config user.name "yourname"
 $ git config user.email "your email"
 
+```
 修改代码后提交，并推送到自己的仓库。
 
-
+```
 $ #do some change on the content
 $ git commit -am "Fix issue #1: change helo to hello"
 $ git push
 
+```
 在 GitHub 网站上提交 pull request。
 
 定期使用项目仓库内容更新自己仓库内容。
 
+```
 $ git remote add upstream https://github.com/yeasy/docker_practice
 $ git fetch upstream
 $ git checkout master
 $ git rebase upstream/master
 $ git push -f origin master
 
+```
 或者使用 GitHub Desktop 图形化客户端完成以上所有操作，推荐使用 [Atom](http://atom.io) 作为本地 .mk 文件编辑器。
 
 
@@ -148,10 +153,6 @@ $ git push -f origin master
 * 16.1 如何使用 API
 * 16.2 常用资源字段
 * 16.3 API 资源
-* 17 常见问题
-* 17.1 Rancher Server
-* 17.2 Rancher Agent/Host
-* 17.3 排错
 * 18 Rancher OS
 * 18.1 快速安装指南
 * 18.2 运行 Rancher OS
@@ -198,6 +199,11 @@ $ git push -f origin master
 * 18.8.1 目录加载
 * 18.9 为 RancherOS 做贡献
 * 18.10 Rancher 配合Rancher OS 的使用技巧
+* 17 常见问题
+* 17.1 Rancher Server
+* 17.2 Rancher Agent/Host
+* RancherOS
+* 17.3 排错
 
 
 
