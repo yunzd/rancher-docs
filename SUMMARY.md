@@ -57,7 +57,7 @@
        * [堆栈选项](rancher-ui/applications/stacks/options.md)
    * [基础架构/主机](rancher-ui/infrastructure/index.md)
        * [从主机开始](rancher-ui/infrastructure/hosts.md)
-       * 添加自定义主机
+       * [添加自定义主机](rancher-ui/infrastructure/custom.md)
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
