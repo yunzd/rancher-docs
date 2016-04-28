@@ -7,6 +7,13 @@
 ## 贡献者
 源码开源托管在 Github 上，欢迎参与维护：https://github.com/martinliu/rancher-docs [贡献者名单见 GitHub contributors 页面](https://github.com/martinliu/rancher-docs/graphs/contributors)。
 
+交流讨论区：
+
+* QQ 群1 
+![314700162](q1.png)
+群名称：Rancher实战红宝书群1
+群号：314700162
+
 
 ## 参与协作
 
@@ -16,7 +23,6 @@
 
 
 ### 具体操作步骤
-
 
 在 GitHub 上 fork 到自己的仓库，如 docker_user/rancher-docs，然后 clone 到本地，并设置用户信息。
 
