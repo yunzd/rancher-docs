@@ -126,6 +126,6 @@
 * [常见问题](faq/index.md)
    * [Rancher Server](faq/rancher_server.md)
    * [Rancher Agent/Host](faq/rancher_agent_host.md)
-   * [排错](faq/troublshooting.md)
    * [RancherOS](faq/rancheros.md)
+   * [排错](faq/troublshooting.md)
 
