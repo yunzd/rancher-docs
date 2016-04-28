@@ -41,7 +41,7 @@
 * [使用 Docker 原生命令行](native-docker/index.md)
 * [使用 Rancher-Compose](rancher-compose/index.md)
    * [使用 Rancher Compose](rancher-compose/rancher-compose.md)
-   * 命令和选项
+   * [命令和选项](rancher-compose/commands.md)
 * [Rancher 图形界面](rancher-ui/index.md)
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
