@@ -76,7 +76,7 @@
 * [使用 API](api/index.md)
    * [如何使用 API](api/api.md)
    * [常用资源字段](api/common.md)
-   * API 资源
+   * [API 资源](api/api-resources.md)
 * [常见问题](faq/index.md)
 * [Rancher OS](os/rancher_os.md)
    * [快速安装指南](os/quick-start-guide.md)
