@@ -38,4 +38,5 @@
                * [AWS](os/Running RancherOS/cloud/aws.md)
                * [GCE](os/Running RancherOS/cloud/gce.md)
                * Azure
+           * 服务器
 
