@@ -33,6 +33,7 @@
    * [存储服务](rancher-services/storage-service.md)
 * [系统配置](configuration/index.md)
    * [访问控制](configuration/access-control.md)
+   * 设置
 * [使用 Docker 原生命令行](native-docker/index.md)
 * [使用 Rancher-Compose](rancher-compose/index.md)
 * [Rancher 图形界面](rancher-ui/index.md)
