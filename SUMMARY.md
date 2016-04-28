@@ -105,7 +105,7 @@
        * [系统服务](os/configuration/system-services.md)
        * [设置 Docker TLS](os/configuration/setting_docker_tls.md)
        * [加载内核模块](os/configuration/load-kernel-modules.md)
-       * 安装内核模块
+       * [安装内核模块](os/configuration/install-kernel-modules-require-kernel-headers.md)
    * [公有云配置参考](os/cloud-config.md)
    * [升级](os/upgrading.md)
    * [ROS 工具](os/ros/index.md)
