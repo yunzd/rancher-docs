@@ -1,6 +1,6 @@
-# Rancher 文档中翻译协作
+# Rancher 实战红宝书
 
-翻译目标： http://docs.rancher.com
+参考源： http://docs.rancher.com
 
 本书在线访问网址：http://rancher.hidocker.io   
 
