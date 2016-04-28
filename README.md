@@ -2,7 +2,7 @@
 
 翻译目标： http://docs.rancher.com
 
-本书在线访问网址：http://rancher.hidocker.io/index.html   [默认网址太长，不方便记忆，所以挂上这个较短的域名好一些]
+本书在线访问网址：http://rancher.hidocker.io   [默认网址太长，不方便记忆，所以挂上这个较短的域名好一些]
 
 ## 翻译者清单
 | 姓名 | 邮箱 | 其它联系方式 | 章节 |
