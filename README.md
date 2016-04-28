@@ -8,7 +8,7 @@
 | 姓名 | 邮箱 | 其它联系方式 | 章节 |
 | -- | -- | -- | -- |
 | Martin Liu | martin@aws-faq.com | qq 67120666 | Overview, Quick Start Guide |
-| 0:3 | 1:3 | 2:3 | 3:3 |
+| Xiaobao Zhang | crazy.zhang@outlook.com | QQ 67448493 | Installing Rancher |
 | 0:4 | 1:4 | 2:4 | 3:4 |
 | 0:5 | 1:5 | 2:5 | 3:5 |
 | 0:6 | 1:6 | 2:6 | 3:6 |
