@@ -61,6 +61,7 @@
        * [Amazon EC2](rancher-ui/infrastructure/amazon_ec2.md)
        * [Azure](rancher-ui/infrastructure/azure.md)
        * [Digital Ocean](rancher-ui/infrastructure/digital_ocean.md)
+       * Exoscale
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
