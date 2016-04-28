@@ -49,5 +49,5 @@
        * [系统服务](os/configuration/system-services.md)
    * [公有云配置参考](os/cloud-config.md)
    * [升级](os/upgrading.md)
-   * ROS 工具
+   * [ROS 工具](os/ros/index.md)
 
