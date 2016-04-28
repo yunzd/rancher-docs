@@ -21,6 +21,7 @@
    * [服务高可用](concepts/SERVICE-HA.md)
    * [服务升级](concepts/SERVICE-UPGRADE.md)
    * [Rancher Compose](concepts/rancher_compose.md)
+   * 堆栈
 * [Rancher 基础服务](rancher-services/index.md)
    * [健康检查](rancher-services/health-checks.md)
 * [系统配置](configuration/index.md)
