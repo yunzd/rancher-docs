@@ -60,7 +60,7 @@
        * [添加自定义主机](rancher-ui/infrastructure/custom.md)
        * [Amazon EC2](rancher-ui/infrastructure/amazon_ec2.md)
        * [Azure](rancher-ui/infrastructure/azure.md)
-       * Digital Ocean
+       * [Digital Ocean](rancher-ui/infrastructure/digital_ocean.md)
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
