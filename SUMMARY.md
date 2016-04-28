@@ -46,7 +46,7 @@
    * [调度](rancher-compose/scheduling.md)
    * [升级服务](rancher-compose/upgrading.md)
    * [环境插值](rancher-compose/environment-interpolation.md)
-   * 构建使用 AWS S3存储
+   * [构建使用 AWS S3存储](rancher-compose/build.md)
 * [Rancher 图形界面](rancher-ui/index.md)
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
