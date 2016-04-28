@@ -44,4 +44,5 @@
        * [配置存储](os/configuration/storage/index.md)
        * [网络](os/configuration/networking/index.md)
        * [用户](os/configuration/user.md)
+       * SSH Keys
 
