@@ -53,7 +53,7 @@
        * [增加服务](rancher-ui/applications/stacks/add-services.md)
        * [增加服务别名](rancher-ui/applications/stacks/add-service-alias.md)
        * [增加负载均衡](rancher-ui/applications/stacks/adding-balancers.md)
-       * 增加外部服务
+       * [增加外部服务](rancher-ui/applications/stacks/adding-ext-services.md)
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
