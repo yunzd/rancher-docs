@@ -34,4 +34,5 @@
            * [Docker Machine](os/Running RancherOS/workstation/docker_machine.md)
            * [Vagrant](os/Running RancherOS/workstation/vagrant.md)
            * [从 ISO 启动](os/Running RancherOS/workstation/Booting_from_ISO.md)
+       * 公有云
 
