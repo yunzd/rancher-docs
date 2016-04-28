@@ -1,6 +1,6 @@
-# 目录
+# Summary
 
-* [Introduction](README.md)
+* [前言](README.md)
 * [目录](SUMMARY.md)
 * [Rancher 简介](overview/overview.md)
 * [快速安装指南](QuickStartGuide/qsg.md)
