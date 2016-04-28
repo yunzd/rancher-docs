@@ -1,6 +1,5 @@
 # 单节点服务器安装
 
-
 Rancher 使用基于 Docker 容器的部署方式。仅需简单的启动两个容器即可运行。一个容器用于管理 Rancher 服务，其他容器使用代理的方式管理主机或节点。
 
 #### 需求
@@ -118,3 +117,8 @@ $ sudo docker run -d \
 如果不使用 [Rancher catalog]() ，则使用正常方式运行启动 Rancher Server 命令。
 
 在 Rancher 中 [添加主机]({{site.baseurl}}/rancher/installing-rancher/add-host/) ，无需使用 HTTP 代理。
+
+--
+> 译者： XiaoBao Zhang
+> 
+> From： http://docs.rancher.com/rancher/installing-rancher/installing-server/
