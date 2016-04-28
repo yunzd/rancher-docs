@@ -51,7 +51,7 @@
    * [调度服务](rancher-ui/scheduling.md)
    * [应用/堆栈](rancher-ui/application/index.md)
        * [增加服务](rancher-ui/applications/stacks/adding-services.md)
-       * 增加服务别名
+       * [增加服务别名](rancher-ui/application/stacks/adding-service-alias.md)
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
