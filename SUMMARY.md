@@ -64,7 +64,7 @@
        * [Exoscale](rancher-ui/infrastructure/exoscale.md)
        * [Packet](rancher-ui/infrastructure/packet.md)
        * [Rackspace](rancher-ui/infrastructure/rackspace.md)
-       * 其它驱动
+       * [其它驱动](rancher-ui/infrastructure/other.md)
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
