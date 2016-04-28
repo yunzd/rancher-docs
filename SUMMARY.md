@@ -48,6 +48,7 @@
    * [环境插值](rancher-compose/environment-interpolation.md)
    * [构建使用 AWS S3存储](rancher-compose/build.md)
 * [Rancher 图形界面](rancher-ui/index.md)
+   * 调度服务
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
