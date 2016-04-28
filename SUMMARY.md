@@ -48,5 +48,5 @@
        * [控制台输出](os/configuration/custom-console.md)
        * [系统服务](os/configuration/system-services.md)
    * [公有云配置参考](os/cloud-config.md)
-   * 升级
+   * [升级](os/upgrading.md)
 
