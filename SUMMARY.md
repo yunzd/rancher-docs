@@ -55,6 +55,7 @@
        * [增加负载均衡](rancher-ui/applications/stacks/adding-balancers.md)
        * [增加外部服务](rancher-ui/applications/stacks/adding-ext-services.md)
        * [堆栈选项](rancher-ui/applications/stacks/options.md)
+   * 基础架构/主机
 * [Rancher 目录](catalog/index.md)
 * [Kubernets](kubernets/index.md)
 * [Swarm](swarm/index.md)
