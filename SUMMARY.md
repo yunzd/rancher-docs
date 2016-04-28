@@ -37,4 +37,5 @@
            * [公有云](os/Running RancherOS/cloud/cloud.md)
                * [AWS](os/Running RancherOS/cloud/aws.md)
                * [GCE](os/Running RancherOS/cloud/gce.md)
+               * Azure
 
