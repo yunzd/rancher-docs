@@ -32,8 +32,8 @@ Rancher 是非常优秀的容器管理平台，本书旨在沉淀和积累相关
 在 GitHub 上 fork 到自己的仓库，如 docker_user/rancher-docs，然后 clone 到本地，并设置用户信息。
 
 ```
-$ git clone git@github.com:docker_user/docker_practice.git
-$ cd docker_practice
+$ git clone git@github.com:martinliu/rancher-docs.git
+$ cd rancher-docs
 $ git config user.name "yourname"
 $ git config user.email "your email"
 
@@ -41,7 +41,7 @@ $ git config user.email "your email"
 修改代码后提交，并推送到自己的仓库。
 
 ```
-$ #do some change on the content
+$ #do some change on the content 修改您参与的文章
 $ git commit -am "Fix issue #1: change helo to hello"
 $ git push
 
@@ -51,7 +51,7 @@ $ git push
 定期使用项目仓库内容更新自己仓库内容。
 
 ```
-$ git remote add upstream https://github.com/yeasy/docker_practice
+$ git remote add upstream https://github.com/martinliu/rancher-docs
 $ git fetch upstream
 $ git checkout master
 $ git rebase upstream/master
