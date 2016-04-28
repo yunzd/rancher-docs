@@ -15,7 +15,7 @@ $ sudo docker run -d --restart=always -p 8080:8080 rancher/server
 ```
 
 ###### RANCHER UI
-Rancher 的 UI 和 API 将开放 8080 端口。Docker 镜像下载后，还需要 1-2 分钟才可以成功启动并显示页面。
+Rancher 的 UI 和 API 默认工作在 8080 端口。Docker 镜像下载后，还需要 1-2 分钟才可以成功启动并显示页面。
 
 访问以下地址：`http://<SERVER_IP>:8080`，这里`<SERVER_IP>`是指运行 Rancher 服务并可用于访问的IP地址。
 
