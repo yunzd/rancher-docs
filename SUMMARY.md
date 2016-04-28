@@ -18,7 +18,7 @@
    * [负载均衡](concepts/LOAD-BALANCER.md)
    * [分布式 DNS 服务](concepts/DISTRIBUTED-DNS-SERVICE.md)
    * [健康检查](concepts/HEALTH-CHECKS.md)
-   * 服务高可用
+   * [服务高可用](concepts/SERVICE-HA.md)
 * [Rancher 基础服务](rancher-services/index.md)
    * [健康检查](rancher-services/health-checks.md)
 * [系统配置](configuration/index.md)
