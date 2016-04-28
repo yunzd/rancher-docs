@@ -12,7 +12,7 @@
 * [基本概念](concepts/index.md)
    * [用户](concepts/user.md)
    * [环境](concepts/ENVIRONMENTS.md)
-   * 主机
+   * [主机](concepts/HOSTS.md)
 * [Rancher 基础服务](rancher-services/index.md)
    * [健康检查](rancher-services/health-checks.md)
 * [系统配置](configuration/index.md)
