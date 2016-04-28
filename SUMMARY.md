@@ -28,7 +28,7 @@
 * [Rancher 基础服务](rancher-services/index.md)
    * [健康检查](rancher-services/health-checks.md)
    * [内部 DNS 服务](rancher-services/internal-dns-service.md)
-   * 使用 Route 53 做外部 DNS
+   * [使用 Route 53 做外部 DNS](rancher-services/Route53-DNS-Service.md)
 * [系统配置](configuration/index.md)
    * [访问控制](configuration/access-control.md)
 * [使用 Docker 原生命令行](native-docker/index.md)
