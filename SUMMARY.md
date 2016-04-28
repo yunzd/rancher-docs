@@ -32,4 +32,5 @@
    * [运行 Rancher OS](os/Running RancherOS/index.md)
        * [工作站](os/Running RancherOS/workstation/index.md)
            * [Docker Machine](os/Running RancherOS/workstation/docker_machine.md)
+           * Vagrant
 
