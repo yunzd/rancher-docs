@@ -30,4 +30,5 @@
 * [Rancher OS](os/rancher_os.md)
    * [快速安装指南](os/quick-start-guide.md)
        * [运行 Rancher OS](os/Running RancherOS/index.md)
+           * 工作站
 
