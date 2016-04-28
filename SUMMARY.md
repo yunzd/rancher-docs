@@ -16,7 +16,7 @@
    * [网络](concepts/NETWORKING.md)
    * [服务发现](concepts/SERVICE-DISCOVERY.md)
    * [负载均衡](concepts/LOAD-BALANCER.md)
-   * 分布式 DNS 服务
+   * [分布式 DNS 服务](concepts/DISTRIBUTED-DNS-SERVICE.md)
 * [Rancher 基础服务](rancher-services/index.md)
    * [健康检查](rancher-services/health-checks.md)
 * [系统配置](configuration/index.md)
