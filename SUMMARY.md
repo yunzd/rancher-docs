@@ -28,4 +28,5 @@
 * [使用 API](api/index.md)
 * [常见问题](faq/index.md)
 * [Rancher OS](os/rancher_os.md)
+   * 快速安装指南
 
