@@ -1,12 +1,13 @@
 # 基本概念
 
-In this section, we introduce the key concepts in Rancher. You should be familiar with these concepts before attempting to use Rancher.
+在本章节，我们将介绍Rancher的基本概念。在使用Rancher之前，我们建议你对这些概念应该非常熟悉。  
 
-### Users
+### 用户
 
-Users govern who has the access rights to view and manage Rancher resources within their Environment.  Rancher allows access for a single tenant by default. However, multi-user support can also be enabled.
+“用户”定义了什么角色在一个环境里能够拥有查看或管理Rancher资源的权限。Rancher缺省会允许单一租户的访问权限，当然，管理员可以定义多个用户的访问权限。 
 
-See [access control]({{site.baseurl}}/rancher/configuration/access-control/) before you enable authentication.
+在你激活鉴权（authenticaiton）之前，可参照 [access control]({{site.baseurl}}/configuration/access-control.html)  .
+
 
 ### Environments
 
