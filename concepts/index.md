@@ -6,7 +6,8 @@
 
 “用户”定义了什么角色在一个环境里能够拥有查看或管理Rancher资源的权限。Rancher缺省会允许单一租户的访问权限，当然，管理员可以定义多个用户的访问权限。 
 
-在你激活鉴权（authenticaiton）之前，可参照 [access control]({{site.baseurl}}/rancher/configuration/access-control/)  .
+在你激活鉴权（authenticaiton）之前，可参照 [access control]({{site.baseurl}}/configuration/access-control.html)  .
+
 
 ### Environments
 
