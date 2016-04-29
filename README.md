@@ -104,12 +104,12 @@ $ git push -f origin master
 | 4.13 容器调度 | Jitao Hou | 0% |
 | 4.14 Sidekicks | Jitao Hou | 0% |
 | 4.15 元数据服务 | Jitao Hou | 0% |
-* 5 Rancher 基础服务 
-* 5.1 健康检查
-* 5.2 内部 DNS 服务
-* 5.3 使用 Route 53 做外部 DNS
-* 5.4 元数据服务
-* 5.5 存储服务
+| 5 Rancher 基础服务 | Sammy Lin | 0% |
+| 5.1 健康检查 | Sammy Lin | 0% |
+| 5.2 内部 DNS 服务 | Sammy Lin | 0% |
+| 5.3 使用 Route 53 做外部 DNS | Sammy Lin | 0% |
+| 5.4 元数据服务 | Sammy Lin | 0% |
+| 5.5 存储服务 | Sammy Lin | 0% |
 * 6 系统配置
 * 6.1 访问控制
 * 6.2 设置
