@@ -2,26 +2,26 @@
 
 Rancher 使用基于 Docker 容器的部署方式。仅需简单的启动两个容器即可运行。一个容器用于管理 Rancher 服务，其他容器使用代理的方式管理主机或节点。
 
-#### 需求
+## 需求
 - 任何支持 Docker 1.10.3 的 Linux 发行版。其中 [RancherOS](http://docs.rancher.com/os/)，Ubuntu，RHEL/CentOS 7 经过了更多的测试
 - 1GB 内存
 - MySQL 服务，并且设置 max_connections > 150
 
-#### 启动 Rancher 服务器
+## 启动 Rancher 服务器
 在安装了 Docker 的服务器上可以很简单的使用命令启动 Rancher 服务器。
 
 ```
 $ sudo docker run -d --restart=always -p 8080:8080 rancher/server
 ```
 
-###### Rancher UI
+### Rancher UI
 Rancher 的 UI 和 API 默认工作在 8080 端口。Docker 镜像下载后，还需要 1-2 分钟才可以成功启动并显示页面。
 
 访问以下地址：`http://<SERVER_IP>:8080`，这里`<SERVER_IP>`是指运行 Rancher 服务器的主机用于网络访问的IP地址。
 
 一旦 UI 处于启动和运行状态，就可以开始 [添加主机]({{site.baseurl}}/rancher/installing-rancher/add-host.html) 。主机添加到 Rancher 服务器中后，您可以开始添加 [服务]({{site.baseurl}}/rancher-ui/applications/stacks/add-service.html) 或 使用 [Rancher catalog]({{site.baseurl}}/rancher/installing-rancher/add-host.html) 启动模板。
 
-#### 开启活动目录或 OpenLDAP 支持(TLS)
+### 开启活动目录或 OpenLDAP 支持(TLS)
 为了开启 Rancher 活动目录或 OpenLDAP 支持(TLS)，Rancher Server 容器在启动时需要加载证书。您需要在运行 Rancher Server 的 Linux 主机上保存证书。
 
 启动 Rancher 服务器并使用绑定挂载卷的方式加载证书，证书在容器中 **必须** 使用`ca.crt`命名。
@@ -49,7 +49,7 @@ done.
 [BOOTSTRAP] Starting Cattle
 ```
 
-#### 绑定挂载 MYSQL 卷
+### 绑定挂载 MYSQL 卷
 如果你想将容器内数据库持久化在主机上，可以在启动 Rancher 服务容器时，绑定并挂载 MySQL 数据卷。
 
 ```
@@ -58,7 +58,7 @@ $ sudo docker run -d -v <host_vol>:/var/lib/mysql --restart=always -p 8080:8080 
 
 使用这个命令，数据库将持久化保存在主机上。如果您已有一个 Rancher 服务器容器，请参照我们的 [升级文档]() 。
 
-#### 使用外部数据库
+### 使用外部数据库
 如果您更希望使用外部的数据库运行 Rancher 服务器，请参照如下操作连接 Rancher 到数据库。您需要一个已经创建好的数据库，但是不需要创建任何数据库对象，Rancher 将会自动创建所有相关的数据库对象。
 
 Rancher 服务器需要使用以下环境变量，并通过 `docker run` 命令启动 Rancher 服务器来连接外部数据库。
@@ -92,7 +92,7 @@ $ sudo docker run -d --restart=always -p 8080:8080 \
     rancher/server
 ```
 
-#### 使用 HTTP 代理环境变量
+### 使用 HTTP 代理环境变量
 为了使用 HTTP 代理，需要修改 Docker 服务支持代理。在 Rancher 服务器启动前，编辑`/etc/defalut/docker`文件指定您的代理并重新启动 Docker 服务。
 
 ```
