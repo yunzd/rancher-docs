@@ -89,21 +89,6 @@ $ git push -f origin master
 | 3.4 无互联网访问 |Xiaobao Zhang | 5% |
 | 3.5 添加主机 |Xiaobao Zhang | 5% |
 | 4 基本概念 | Jitao Hou | 0% |
-| 4.1 用户 | Jitao Hou | 0% |
-| 4.2 环境 | Jitao Hou | 0% |
-| 4.3 主机 | Jitao Hou | 0% |
-| 4.4 网络 | Jitao Hou | 0% |
-| 4.5 服务发现 | Jitao Hou | 0% |
-| 4.6 负载均衡 | Jitao Hou | 0% |
-| 4.7 分布式 DNS 服务 | Jitao Hou | 0% |
-| 4.8 健康检查 | Jitao Hou | 0% |
-| 4.9 服务高可用 | Jitao Hou | 0% |
-| 4.10 服务升级 | Jitao Hou | 0% |
-| 4.11 Rancher Compose | Jitao Hou | 0% |
-| 4.12 堆栈 | Jitao Hou | 0% |
-| 4.13 容器调度 | Jitao Hou | 0% |
-| 4.14 Sidekicks | Jitao Hou | 0% |
-| 4.15 元数据服务 | Jitao Hou | 0% |
 | 5 Rancher 基础服务 | Sammy Lin | 0% |
 | 5.1 健康检查 | Sammy Lin | 0% |
 | 5.2 内部 DNS 服务 | Sammy Lin | 0% |
