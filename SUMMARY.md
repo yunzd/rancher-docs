@@ -13,7 +13,6 @@
    * [用户](concepts/user.md)
    * [环境](concepts/ENVIRONMENTS.md)
    * [主机](concepts/HOSTS.md)
-   * [元数据服务](concepts/METADATA-SERVICES.md)
 * [Rancher 基础服务](rancher-services/index.md)
    * [健康检查](rancher-services/health-checks.md)
    * [内部 DNS 服务](rancher-services/internal-dns-service.md)
