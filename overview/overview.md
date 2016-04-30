@@ -6,7 +6,7 @@ Rancher 是以在生产环境中运行容器为目标而构建的开源软件平
 
 ### 计算资源
 
-Rancher 使用的是来自于公有云或私有云上 Linux 主机的裸计算资源。每一个 Linux 主机既可以是虚拟机，也可以是物理机。Rancher 对每一个主机的期望不会多于 CPU，内存，磁盘存储和网络连接。从 Rancher 的角度看来，一个来自云服务商的云主机和私有数据中心的物理机是没多大差异的。
+Rancher 使用的是来自于公有云或私有云上 Linux 主机的裸计算资源。每一个 Linux 主机既可以是虚拟机，也可以是物理机。Rancher 对每一个主机的期望不会多于 CPU，内存，磁盘存储和网络连接。从 Rancher 的角度看来，一个来自云服务商的云主机和私有数据中心的物理机是没多大差异。
 
 ### 关键功能
 
@@ -14,7 +14,7 @@ Rancher 产品的关键功能包括：
 
 1. 扩主机网络。 Rancher 为每个环境生成一个软件定义网络，为扩主机和云的容器之间提供了安全的网络通讯。
 
-2. Container load balancing. Rancher provides an integrated, elastic load balancing service to distribute traffic between containers or services. The load balancing service works across multiple clouds.
+2. 容器的负载均衡。Rancher 提供的内置、弹性负载均衡能在容器之间或者服务之间分发流量。负载均衡服务可以跨多个云工作。
 
 3. Persistent Storage Services. Rancher supports orchestrating Persistent Storage Services for Docker, making it possible for developers to deploy storage reliably in conjunction with containerized applications. The new feature builds on Docker 1.9 volume plugin capabilities, and makes it easier for developers to run applications that require stateful databases and persistent storage.
 
