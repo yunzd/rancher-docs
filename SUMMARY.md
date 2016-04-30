@@ -13,7 +13,6 @@
    * [用户](concepts/user.md)
    * [环境](concepts/ENVIRONMENTS.md)
    * [主机](concepts/HOSTS.md)
-   * [分布式 DNS 服务](concepts/DISTRIBUTED-DNS-SERVICE.md)
    * [健康检查](concepts/HEALTH-CHECKS.md)
    * [服务高可用](concepts/SERVICE-HA.md)
    * [服务升级](concepts/SERVICE-UPGRADE.md)
