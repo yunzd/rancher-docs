@@ -82,7 +82,7 @@ $ git push -f origin master
 
 | 章节编号 | 贡献者 | 完成度% |
 | -- | -- | -- |
-| 1 Rancher 概述 | Martin Liu | 5% |
+| 1 Rancher 概述 | Martin Liu | 75% |
 | 2 快速安装指南 | Martin Liu | 5% |
 | 3 Rancher 安装 |Xiaobao Zhang | 5% |
 | 3.1 单节点服务器 |Xiaobao Zhang | 5% |
