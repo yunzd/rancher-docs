@@ -9,7 +9,7 @@ Rancher 是非常优秀的容器管理平台，本书旨在沉淀和积累相关
 本书的初始化版本，保持了和 Rancher 文档官网同步的目录结构；为了方便您的翻译，建议直接下载 https://github.com/rancher/rancher.github.io 英文源站到本地，在 Forke 下载本书源码 https://github.com/martinliu/rancher-docs 到本地，您会看到本书的很多章节还都是空白文章；然后您就可以可以开始工作了。本书的第一个阶段性目标是：对官方英文文档做 1：1的翻译。然后是收集各位高手的原创好文。目标是打造出一份很实用和全面的参考资料库。
 
 ## 贡献者
-本书源码开源托管在 Github 上，欢迎参与维护：https://github.com/martinliu/rancher-docs [贡献者名单见 GitHub contributors 页面](https://github.com/martinliu/rancher-docs/graphs/contributors)。
+本书源码开源托管在 Github，欢迎参与维护：https://github.com/martinliu/rancher-docs， 贡献者名单见[ GitHub contributors](https://github.com/martinliu/rancher-docs/graphs/contributors) 页面。
 
 欢迎参与线上讨论。
 
