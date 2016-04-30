@@ -10,7 +10,6 @@
    * [无互联网访问](Installing-Rancher/no-internet-access.md)
    * [添加主机](Installing-Rancher/add-host.md)
 * [基本概念](concepts/index.md)
-   * [用户](concepts/user.md)
 * [Rancher 基础服务](rancher-services/index.md)
    * [健康检查](rancher-services/health-checks.md)
    * [内部 DNS 服务](rancher-services/internal-dns-service.md)
