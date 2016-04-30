@@ -88,7 +88,7 @@ $ git push -f origin master
 | 3.3 基本 SSL 配置 |Xiaobao Zhang | 5% |
 | 3.4 无互联网访问 |Xiaobao Zhang | 5% |
 | 3.5 添加主机 |Xiaobao Zhang | 5% |
-| 4 基本概念 | Jitao Hou | 0% |
+| 4 基本概念 | Jitao Hou | 100% |
 | 5 Rancher 基础服务 | Sammy Lin | 0% |
 | 5.1 健康检查 | Sammy Lin | 0% |
 | 5.2 内部 DNS 服务 | Sammy Lin | 0% |
