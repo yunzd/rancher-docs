@@ -26,11 +26,11 @@ Rancher 产品的关键功能包括：
 
 7. 多租户和用户环境：Rancher 为多用户而设计，企业各个部门间可以跨应用生命周期协作。通过与已有目录服务的集成，Rancher 的用户可以创建独立的开发，测试和生产环境，然后邀请相关人员一起协作地管理资源和应用。
 
-8. Multi Orchestration Engines. Rancher supports the ability for users to select the default Cattle, Kubernetes, or Docker Swarm as their container orchestration engine of choice when creating environments.  This will allow users to select market leading scheduling frameworks while still leveraging Rancher features such as the app catalog, enterprise user management, container networking, and storage technologies.
+8. 多编排引擎支持：Rancher 用户在创建环境的时候，可以为他们的容器选择不同的容器编排引擎，默认是 Cattle，或者是 Kubernets 和 Docker Swarm。这让用户可以选择任意市场领先的调度框架的同时，依然能利用到Ranher 的其它所有功能，如：应用商店/目录，企业级用户管理，容器网络，和存储技术。
 
-### Primary Consumption Interfaces
+### 主要使用接口
 
-There are three primary ways for users to interact with Rancher:
+用户有三种方式和 Rancher 交互：
 
 1. Users can interact with Rancher through native Docker CLI or API. Rancher is not another orchestration or management layer that shields users from the native Docker experience. As Docker platform grows over time, a wrapper layer will likely be superseded by native Docker features. Rancher instead works in the background so that users can continue to use native Docker CLI and Docker Compose templates. Rancher uses Docker labels--a Docker 1.6 feature contributed by Rancher Labs--to pass additional information through the native Docker CLI.  Because Rancher supports native Docker CLI and API, third-party tools like Kubernetes work on Rancher automatically.
 2. Users can interact with Rancher using a command-line tool called `rancher-compose`. The `rancher-compose` tool enables users to stand up multiple containers and services based on the Docker Compose templates on Rancher infrastructure. The `rancher-compose` tool supports the standard `docker-compose.yml` file format. An optional `rancher-compose.yml` file can be used to extend and overwrite service definitions in `docker-compose.yml`.
