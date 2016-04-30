@@ -13,7 +13,6 @@
    * [用户](concepts/user.md)
    * [环境](concepts/ENVIRONMENTS.md)
    * [主机](concepts/HOSTS.md)
-   * [服务高可用](concepts/SERVICE-HA.md)
    * [服务升级](concepts/SERVICE-UPGRADE.md)
    * [Rancher Compose](concepts/rancher_compose.md)
    * [堆栈](concepts/STACKS.md)
