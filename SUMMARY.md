@@ -13,7 +13,6 @@
    * [用户](concepts/user.md)
    * [环境](concepts/ENVIRONMENTS.md)
    * [主机](concepts/HOSTS.md)
-   * [容器调度](concepts/CONTAINER-SCHEDULING.md)
    * [Sidekicks](concepts/sidekicks.md)
    * [元数据服务](concepts/METADATA-SERVICES.md)
 * [Rancher 基础服务](rancher-services/index.md)
