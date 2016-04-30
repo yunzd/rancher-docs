@@ -38,9 +38,9 @@ Rancher 产品的关键功能包括：
 
 The following figure illustrates Rancher's major features, its ability to run any clouds, and the three primary ways to interact with Rancher.
 
-<img src="{{site.baseurl}}/img/rancher/rancher_overview.png" width="800" alt="Rancher Overview">
+<img src="{{site.baseurl}}/images/rancher_overview.png" width="800" alt="Rancher Overview">
 
-### Outline of This Guide
+### 本文档的线索
 
 It is easy to get Rancher up and running. If you have access to a Linux VM on your laptop or in a cloud, go to the [Quick Start Guide]({{site.baseurl}}/rancher/quick-start-guide/) to get started right away.
 
