@@ -55,5 +55,3 @@ The next three sections--[Using Rancher Through Native Docker CLI]({{site.baseur
 The [Upgrading Rancher]({{site.baseurl}}/rancher/upgrading) section is essential if you run Rancher in production.
 
 The [Contributing to Rancher]({{site.baseurl}}/rancher/contributing) section contains information on how you can participate in the Rancher open source community.
-
-<a class="btn btn-primary pull-right" href="https://github.com/martinliu/rancher-docs/blod/master/{{page.path }}">帮忙修订本页 </a>
