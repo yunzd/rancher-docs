@@ -56,3 +56,4 @@ The [Upgrading Rancher]({{site.baseurl}}/rancher/upgrading) section is essential
 
 The [Contributing to Rancher]({{site.baseurl}}/rancher/contributing) section contains information on how you can participate in the Rancher open source community.
 
+<a class="btn btn-primary pull-right" href="https://github.com/martinliu/rancher.github.io/tree/master/{{page.path }}">Edit this page <i class="fa fa-pencil"></i></a>
