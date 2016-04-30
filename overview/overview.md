@@ -12,19 +12,19 @@ Rancher 使用的是来自于公有云或私有云上 Linux 主机的裸计算�
 
 Rancher 产品的关键功能包括： 
 
-1. 扩主机网络。 Rancher 为每个环境生成一个软件定义网络，为扩主机和云的容器之间提供了安全的网络通讯。
+1. 扩主机网络： Rancher 为每个环境生成一个软件定义网络，为扩主机和云的容器之间提供了安全的网络通讯。
 
 2. 容器的负载均衡。Rancher 提供的内置、弹性负载均衡能在容器之间或者服务之间分发流量。负载均衡服务可以跨多个云工作。
 
-3. Persistent Storage Services. Rancher supports orchestrating Persistent Storage Services for Docker, making it possible for developers to deploy storage reliably in conjunction with containerized applications. The new feature builds on Docker 1.9 volume plugin capabilities, and makes it easier for developers to run applications that require stateful databases and persistent storage.
+3. 持久化存储服务： Rancher 对 Docker 提供持久化存储服务的编排，让开发者在部署容器化应用的同时可靠地部署与之相应的存储。这项新功能基于 Docker 1.9的卷插件功能，这让开发人员可以更加方便地运行需要有状态数据库和持久存储的应用。
 
-4.	Service discovery: Rancher implements a distributed DNS-based service discovery function with integrated health checking that allows containers to automatically register themselves as services, as well as services to dynamically discover each other over the network.
+4.	服务发现：Rancher 实现了分布式服务发现功能，具有内置的健康检查功能，并使容器自动地注册自己到相应至相应服务，并且各种服务之间可以在网络上动态地彼此发现。
 
-5.	Service upgrades: Rancher makes it easy for users to upgrade existing container services, by allowing service cloning and redirection of service requests.  This makes it possible to ensure services can be validated against their dependencies before live traffic is directed to the newly upgraded services. 
+5.	服务升级：通过使用服务克隆和请求重定向功能，Rancher 使用户能更加容易地升级以及存在的容器服务。这让新版本的服务在处理生产流量前，有机会在其所依赖的生产环境中被校验和确认。 
 
-6.	Resource management: Rancher supports Docker Machine, a powerful tool for provisioning hosts directly from cloud providers. Rancher then monitors host resources and manages container deployment.
+6.	资源管理：Rancher 支持 Docker Machine，这个强大的工具可以直接地对各种云提供商做主机部署。然后 Rancher 在对其做资源监控和容器部署管理。
 
-7. Multi-tenancy & user management: Rancher is designed for multiple users and allows organizations to collaborate throughout the application lifecycle. By connecting with existing directory services, Rancher allows users to create separate development, testing, and production environments and invite their peers to collaboratively manage resources and applications.
+7. 多租户和用户环境：Rancher 为多用户而设计，企业各个部门间可以跨应用生命周期协作。通过与已有目录服务的集成，Rancher 的用户可以创建独立的开发，测试和生产环境，然后邀请相关人员一起协作地管理资源和应用。
 
 8. Multi Orchestration Engines. Rancher supports the ability for users to select the default Cattle, Kubernetes, or Docker Swarm as their container orchestration engine of choice when creating environments.  This will allow users to select market leading scheduling frameworks while still leveraging Rancher features such as the app catalog, enterprise user management, container networking, and storage technologies.
 
