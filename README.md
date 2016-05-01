@@ -139,10 +139,10 @@ $ git push -f origin master
 * 13 使用标签
 * 14 升级 Rancher
 * 15 为 Rancher 做贡献
-* 16 使用 API
-* 16.1 如何使用 API
-* 16.2 常用资源字段
-* 16.3 API 资源
+| 16 使用 API | wangweihong | 5% |
+| 16.1 如何使用 API | wangweihong | 5% |
+| 16.2 常用资源字段 | wangweihong | 5% |
+| 16.3 API 资源 | wangweihong | 5% |
 * 18 Rancher OS
 * 18.1 快速安装指南
 * 18.2 运行 Rancher OS
