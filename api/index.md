@@ -1,7 +1,7 @@
 ##  API实践
 ---
 
-API有可以从web浏览器访问的用户接口。这是查看资源，执行动作，以及查看等同于cULRL命令执行的HTTP请求&回应. 需要存取资源，则点击**API**来获得URL endpoint。
+API有可以从web浏览器访问的用户接口。这是查看资源，执行动作，以及查看等价于cURL命令执行的HTTP请求&回应。点击**API**来获得URL endpoint来访问API。
 
 ![User menu]({{site.baseurl}}/api/img/apikeys.png)
 
@@ -16,20 +16,20 @@ API中一些资源类型命名和当前UI上所用的术语，并不一致。尤
 
 | UI | API | Description |
 |----|-----|-------------|
-| [Environment]({{site.baseurl}}/rancher/configuration/environments/) | [project]({{site.baseurl}}/rancher/api/api-resources/project) | 一组物理资源， 例如 [主机]({{site.baseurl}}/rancher/api/api-resources/host)) |
-| [Stack]({{site.baseurl}}/rancher/rancher-ui/applications/stacks/) | [environment]({{site.baseurl}}/rancher/api/api-resources/environment) | 一个(API) 环境是一组服务以及rancher-compose所操作的级别。 |
+| [Environment]({{site.baseurl}}/configuration/environments/) | [project]({{site.baseurl}}/api/api-resources/project) | 一组物理资源， 例如 [主机]({{site.baseurl}}/api/api-resources/host)) |
+| [Stack]({{site.baseurl}}/rancher-ui/applications/stacks/) | [environment]({{site.baseurl}}/api/api-resources/environment) | 一个(API) 环境是一组服务以及rancher-compose所操作的级别。 |
 
 在这文档中，我们使用UI所用的术语进行描述，在不同点也会提供额外的声明。这些混乱将会在未来的`/v2`版本API清除。
 
 ## 验证
 ---
 
-如果[Access Control]({{site.baseurl}}/rancher/configuration/access-control/)启动的话，API请求必须包含验证信息。验证操作通过带有[API keys]({{site.baseurl}}/rancher/api/api-resources/apikey)的HTTP基本验证来完成。API密钥或者属于一个(UI) Environment/ (API) [Project]({{site.baseurl}}/rancher/api/api-resources/project})，只能访问该Environment；或者属于一个[Account]({{site.baseurl}}/rancher/api/api-resource/account)，能够访问该账户所有的Environment，也能够创建新的Api密钥。在UI上有单独的JSON Web Token接口。
+如果[Access Control]({{site.baseurl}}/configuration/access-control/)启动的话，API请求必须包含验证信息。验证操作通过带有[API keys]({{site.baseurl}}/api/api-resources/apikey)的HTTP基本验证来完成。API密钥或者属于一个(UI) Environment/ (API) [Project]({{site.baseurl}}/api/api-resources/project})，只能访问该Environment；或者属于一个[Account]({{site.baseurl}}/api/api-resource/account)，能够访问该账户所有的Environment，也能够创建新的Api密钥。在UI上有单独的JSON Web Token接口。
 
 ### 一个环境的API密钥
 
 
-环境的API密钥能够在UI中创建，查看[API & Kes[({{site.baseurl}}rancher/configuration/api-keys/)。 密钥所属于一个环境，而且完全有权管理该环境，但无权管理其他环境。[Membership roles]({{site.baseurl}}/rancher/configuration/environments/#membership-roles)并不支持密钥。
+环境的API密钥能够在UI中创建，查看[API & Kes[({{site.baseurl}}/configuration/api-keys/)。 密钥所属于一个环境，而且完全有权管理该环境，但无权管理其他环境。[Membership roles]({{site.baseurl}}/configuration/environments/#membership-roles)并不支持密钥。
 
 ### 账户的API密钥
 
@@ -43,7 +43,7 @@ API中一些资源类型命名和当前UI上所用的术语，并不一致。尤
   - 点击`Show Request`， 然后`Send Request`
   - 保存回应中的`publicValue`和`secretValue`
 
-Account密钥能够创建新的Environments，也能够用来通过`/v1/projects`来访问多个Environments。这些密钥所采用的[Membership roles]({{site.baseurl}}/rancher/configuration/environments/$membership-roles)限制该Account哪些Environments以及哪些动作能够使用。
+Account密钥能够创建新的Environments，也能够用来通过`/v1/projects`来访问多个Environments。这些密钥所采用的[Membership roles]({{site.baseurl}}/configuration/environments/$membership-roles)限制该Account哪些Environments以及哪些动作能够使用。
 
 ## 作用域
 ---
@@ -58,7 +58,7 @@ Account密钥能够创建新的Environments，也能够用来通过`/v1/projects
 
 这些API一般都是RESTful API，但拥有一些特性使得客户端能够查看任何资源的定义，因而可以编写通用的客户端，而不是每种资源类型编写特定代码的客户端。对那些想费力深入通用API规范细节的人，[查看这里](https://github.com/rancher/api-spec/blob/master/specification.md)
 
-- 每种类型有一个[Schema]({{site.baseurl}}/rancher/api/api/resources/schema/)，负责描述：
+- 每种类型有一个[Schema]({{site.baseurl}}/api/api/resources/schema/)，负责描述：
   - 到达该资源类型的collection的URL
   - 该资源拥有的所有域，连同域的类型，域的基本验证规则，它们是必须还是可选等.
   - 该类型资源能够执行每个动作，以及输入和输出(和schemas一样)
