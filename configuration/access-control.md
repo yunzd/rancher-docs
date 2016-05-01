@@ -1,7 +1,9 @@
 # 访问控制
 待编辑状态，下保存一下英文版本。
+下面开始正式翻译了。
+翻译告一段落，保存，并提交给 电子书源码 仓库。
 
-### What is Access Control?
+### 访问控制是什么?
 
 Access Control is how Rancher limits the users who have the access permissions to your Rancher instance. By default, Access Control is not configured. This means anyone who has the IP address of your Rancher instance will be able to use it and access the API. Your Rancher instance is open to the public! We highly recommend configuring Access Control soon after launching Rancher. Upon enabling Access Control, you can share your Rancher instance to who you want to. They will be required to authenticate to the instance before being able to access it. The API becomes only accessible to those who have the valid API keys to the instance. 
 
